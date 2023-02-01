@@ -1,0 +1,48 @@
+Data Fetching and Other Side Effects
+
+-PURE FUNCTIONS (Theory + Bonus guess...)
+procedural"if/else" vs functional "function" 
+1. identical arguments -> idential return 
+2. no side effects
+
+-SIDE EFFECTS (Theory + Bonues)
+i/o operations 
+referencing/mutating variables outisde functions 
+mutating arguments passed in by reference
+calling impure functions 
+
+
+-REACT HOOKS (Theory)
+def
+1. prefix use 
+2. inside react components
+3. not inside condition
+
+-THE USEEFFECT HOOK (Theory)
+sideffects
+timers
+direct dom updates
+fetch
+console.log
+useEffect() 4 types
+
+- TITLECHANGER.JSX (Practice)
+dom elements 
+
+- COUNTER.JSX (Practice)
+interval
+
+**** BREAK ******
+
+- GHIBIFILMS.JSX (Practice)
+fetch
+
+- NEXT.JSX (PRACTICE)
+axios 
+
+
+
+
+
+
+
