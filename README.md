@@ -1,10 +1,11 @@
-# Lighthouse Labs | Data-Fetching-Other-Side-Effects
+# Lighthouse Labs | Data Fetching and Other Side Effects
 
-* [x] Pure Functions
-* [x] Side-Effects
-* [x] React-Hooks 
-* [x] The 'useEffect' Hook
+[GitHub Repository Branch](https://github.com/SakhiaKwemo/Data-Fetching-Other-Side-Effects) | [Vimeo Video Recording](https://vimeo.com/794739529/0568e298d4)
 
+* [X] Pure Functions
+* [X] Side-Effects
+* [X] React Hooks
+* [X] The `useEffect` Hook
 
 ## Pure Functions 
 - Small & Simple Functions that perform a specific task
